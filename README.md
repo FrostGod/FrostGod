@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+👋 Hi, I’m Divesh
+Student at USC
+👀 I’m interested in
+Pretty much everything related to Backend Engineering and New Tech
+📫 How to reach me
+email : divesh.chowdary@gmail.com
+Phone : 213-691-9849
 <!--
 **FrostGod/FrostGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
