@@ -6,7 +6,7 @@ Pretty much everything related to Backend Engineering and New Tech
 
 - 📫 How to reach me
 email : divesh.chowdary@gmail.com
-linkedin: <img src="{[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/divesh-chowdary/)}"/>
+linkedin: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **FrostGod/FrostGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
