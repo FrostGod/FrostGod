@@ -4,11 +4,11 @@ Student at USC
 - 👀 I’m interested in
 Pretty much everything related to Backend Engineering and New Tech
 
-- 📫 How to reach me
-<p>
-email : divesh.chowdary@gmail.com   
-</p>
-linkedin: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile-url)](https://www.linkedin.com/in/your-profile-url)
+📫 How to reach me
+
+email : divesh.chowdary@gmail.com
+
+linkedin: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divesh-chowdary/)](https://www.linkedin.com/in/divesh-chowdary/)
 
 <!--
 **FrostGod/FrostGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
