@@ -6,21 +6,12 @@ Pretty much everything related to Backend Engineering and New Tech
 
 📫 How to reach me
 
-email : divesh.chowdary@gmail.com
+email: divesh.chowdary@gmail.com
 
 linkedin: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/divesh-chowdary/)](https://www.linkedin.com/in/divesh-chowdary/)
 
-<!--
-**FrostGod/FrostGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on personal projects and a full-time employee at Nvidia
+- 👯 I’m looking to collaborate on interesting projects related to AI, distributed Systems and Networks (feel free to hit me 
+- 💬 Ask me anything in backend engineering and what are new current affairs in tech going around.
+- ⚡ Fun fact: I am not sure when to give up
+- 👊🏽 used to be one of the decent competitive programmers, currently chasing to be top in real-life leaderboard.
