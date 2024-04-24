@@ -13,5 +13,5 @@ linkedin: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-sq
 - 🔭 I’m currently working on personal projects and a full-time employee at Nvidia
 - 👯 I’m looking to collaborate on interesting projects related to AI, distributed Systems and Networks (feel free to hit me up)
 - 💬 Ask me anything in backend engineering and what are current affairs in tech going around and probably you will get a satisfactory answer.
-- ⚡ Fun fact: I am not sure when to give up
+- ⚡ Fun fact about me: I can code 2 days straight without sleep lol
 - 👊🏽 used to be one of the decent competitive programmers, currently chasing to be top in the real-life leaderboard.
