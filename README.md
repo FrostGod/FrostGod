@@ -1,6 +1,5 @@
 ### Hi there 👋
-👋 Hi, I’m Divesh,
-Student at USC
+👋 Hi, I’m Divesh
 - 👀 I’m interested in
 Pretty much everything related to Backend Engineering and New Tech
 
