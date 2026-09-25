@@ -1,7 +1,7 @@
 ### Hi there 👋
 👋 Hi, I’m Divesh
 - 👀 I’m interested in
-Pretty much everything related to Backend Engineering and New Tech
+Pretty much everything related to Backend Engineering and Funky Tech
 
 📫 How to reach me
 
